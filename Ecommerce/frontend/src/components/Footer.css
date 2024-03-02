@@ -1,0 +1,15 @@
+.copyright {
+    color: white !important;
+}
+.footerhover{
+    color: rgb(255, 255, 255) !important;
+    
+}
+
+.footerhover:hover {
+    color: rgb(255, 255, 255) !important;
+}
+
+.unique {
+    box-shadow: none !important;
+}

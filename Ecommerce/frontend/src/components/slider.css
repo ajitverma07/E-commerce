@@ -1,0 +1,20 @@
+.card-body {
+    text-align: center;
+}
+
+.card {
+    border: none !important;
+}
+
+.featured-product {
+    background: rgba(185, 175, 175, 0.163);
+}
+
+#featured-product {
+    /* font-family: 'Domine', serif; */
+    font-family: 'Gruppo', sans-serif;
+    font-size: 2vw;
+    font-weight: bolder;
+
+
+}
