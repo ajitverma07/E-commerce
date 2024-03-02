@@ -35,4 +35,7 @@ List key features of your E-commerce application. This can include functionaliti
    ```bash
    git clone https://github.com/your-username/E-commerce.git
    cd E-commerce
+##Usage
+-npm start
+
 
