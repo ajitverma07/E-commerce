@@ -1,6 +1,7 @@
 # E-commerce
 
-![Project Logo/ Banner Image]
+<img src="https://dcassetcdn.com/design_img/1552289/519348/519348_7811834_1552289_f525804b_image.png" alt="Project Logo/ Banner Image" height="350" width="450">
+
 
 ## Overview
 
